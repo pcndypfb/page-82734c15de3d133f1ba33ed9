@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ac3ed20f32253bb6481793ba",
+  "owner": "pcndypfb",
+  "repo": "page-82734c15de3d133f1ba33ed9",
+  "title": "Zeze",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "82734c15de3d133f1ba33ed9",
+      "a": "Zeze",
+      "b": "2027官方最新地址导航",
+      "entity": "Zeze",
+      "brand": "Zeze",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "aee370e63c9c3172e7cb4c583fd6c5cb915d4091cfc266c6f9447f62613098a5",
+      "content": {
+        "primary_entity": "Zeze",
+        "keyword1": "Zeze",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，围绕订阅周期、设备数量与线路类型展开对比，帮助不同使用强度的用户找到合适的方案。基础版适合轻量浏览，旗舰版增加 IPLC 专线游戏加速优化，团队版面向多设备与定制路由需求。",
+          "AI_HERO_SUBTITLE": "多设备订阅，稳连海外网络",
+          "AI_HERO_INTRO": "Zeze 提供海外网络加速订阅，按流量与设备数量划分多档套餐，覆盖基础浏览、流媒体解锁与专线游戏加速等场景，方便个人与团队按需选择。",
+          "AI_VISUAL_TITLE": "Zeze 套餐对比与订阅配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "多设备同时在线更灵活",
+          "AI_HIGHLIGHT_3": "订阅导入按客户端文档操作",
+          "AI_FEATURES_TITLE": "套餐选择与使用要点",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度对比，选择合适的订阅方案。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按日常用量判断合适档位。",
+          "AI_FEATURE_TITLE_2": "按设备定方案",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，多终端用户优先考虑高设备数套餐。",
+          "AI_FEATURE_TITLE_3": "按周期看价格",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备适配的客户端不同，参考 Zeze 提供的客户端文档完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版覆盖从个人到团队的常见需求，参考流量、设备数与专线权益选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先确认设备与套餐，再按客户端文档完成订阅导入，过程简洁明了。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量与在线设备数，从基础版、旗舰版或团队版中选定方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备是否在套餐支持范围内，留意线路类型与设备上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅信息，按提示完成连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_CLOSING_TEXT": "对比三档套餐后，按设备与用量选择并完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。可按设备数量与流量需求选择。",
+          "AI_FAQ_ANSWER_2": "可以。套餐支持按月或按年支付，按年付费价格更优惠，例如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_3": "旗舰版在普通节点基础上增加 IPLC 专线，针对游戏加速进行优化，并提供 7x24 优先工单支持，适合对延迟敏感的场景。",
+          "AI_FAQ_ANSWER_4": "按设备系统选择对应客户端，导入订阅链接后即可连接。不同平台客户端操作略有差异，请参照具体客户端的配置文档。",
+          "AI_FAQ_ANSWER_5": "根据常用设备数量和月流量需求判断。单人 3 台以内选基础版，5 台左右且有游戏需求选旗舰版，多设备或多成员使用选团队版。",
+          "AI_FAQ_QUESTION_1": "不同套餐分别支持多少台设备和流量？",
+          "AI_FAQ_QUESTION_2": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_3": "旗舰版的专线加速适合什么场景？",
+          "AI_FAQ_QUESTION_4": "如何在设备上配置 Zeze 订阅？",
+          "AI_FAQ_QUESTION_5": "怎么判断该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bayabi.cn",
+    "host": "bayabi.cn"
+  },
+  "file_hashes": {
+    "index.html": "d6baf02cc75b3f42529f6247654d5e5936c041f7e5ac11c777d0775095c83213",
+    "sitemap.xml": "1ea6bf5ab3f9193ac8d370681c68433ce9ac8ed379e71bdcb3dade3cedd1cfa0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5a53f0d2b246c161649f817c48087a20969c95cb07d3452818ad02c37036f3ec",
+    "robots.txt": "183add4acbb4954de57034fd038730da2201cfd89ea24b808ff359e0d1cfec6a",
+    "47ccd9b4b3038a3b5df5150f8e0df9c4.txt": "c1c3cce194fb32664abf8d5e9dd8fb1b430ae48824abcba34c830b33f7271f88"
+  },
+  "revision": "bd5966e898fc6c1e8a7b6b9af6352d94d6345ae4afd7ae49529cf06178770640"
+}
